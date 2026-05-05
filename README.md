@@ -1,4 +1,5 @@
-# Java
+## Getting Started
+
 Objetivo Geral: 
 Criar uma aplicação Java utilizando conceitos de herança para representar a hierarquia dos Arcossauros;
 
